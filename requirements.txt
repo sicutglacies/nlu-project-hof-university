@@ -1,0 +1,7 @@
+neomodel==4.0.8
+numpy==1.19.4
+tqdm==4.52.0
+requests==2.22.0
+jupyter==1.0.0
+transformers==4.20.1
+spacy==3.3.1

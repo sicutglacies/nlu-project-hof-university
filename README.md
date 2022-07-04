@@ -1,2 +1,2 @@
 # nlu-project-hof-university
-Joint project for Deep Learning course in Hof University
+Study project for Deep Learning Course in Hof University

@@ -3,4 +3,4 @@ Study project for Deep Learning Course in Hof University
 
 1,2 src scripts are done by Aryn,
 3,4 src scripts are done by Daniil,
-5th src script is done by Nurbak
+5th src script and pure neo4j try is done by Nurbak
